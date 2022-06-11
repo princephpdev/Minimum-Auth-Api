@@ -1,6 +1,16 @@
 # Minimum-Auth-Api
 Very minimum auth api with login and register
 
+## Installation
+- Clone the repo using git clone OR download the zip
+- Make sure you have node installed
+- Use Node version 14 or greater
+- Go to downloaded folder and run `npm install`
+- Once installed run `npm run start`
+- Server started at Port `1234`
+
+## Api Documentation
+
 ### Login Api
 
 **POST** http://localhost:1234/login
